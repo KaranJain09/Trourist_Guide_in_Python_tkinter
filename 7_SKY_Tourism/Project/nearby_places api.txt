@@ -1,0 +1,9 @@
+fsq3Nz0SRIdVswnZ56P8W5UnNkPLl01I98bnfjLMIgnP9cY=
+fsq3Nz0SRIdVswnZ56P8W5UnNkPLl01I98bnfjLMIgnP9cY=
+
+https://developer.foursquare.com/
+
+fsq3MU4z0ijYJq0fYBXRDI7DUHCmceNu32QYeSxgvhj4KoM=
+
+google cloud
+https://console.cloud.google.com/marketplace/product/google/places-backend.googleapis.com?q=search&referrer=search&project=python-383107&pli=1
